@@ -2,10 +2,8 @@
 
 ## 💻 ¿Qué es GitHub?
 
-**GitHub** es una plataforma en línea que permite **almacenar, compartir
+**GitHub** es una página web en línea que te permite **almacenar, compartir
 y colaborar** en proyectos de software utilizando Git.\
-Actúa como una red social para desarrolladores, donde puedes contribuir,
-revisar código, crear issues y manejar versiones de proyectos.
 
 ------------------------------------------------------------------------
 
