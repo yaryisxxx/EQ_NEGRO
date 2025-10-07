@@ -3,8 +3,7 @@
 ## 💻 ¿Qué es GitHub?
 
 **GitHub** es una página web en línea que te permite **almacenar, compartir
-y colaborar** en proyectos de software utilizando Git.\
-
+y colaborar** en proyectos de software utilizando Git.
 ------------------------------------------------------------------------
 
 ## 🧩 ¿Qué es Git?
