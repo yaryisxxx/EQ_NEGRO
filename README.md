@@ -1,5 +1,5 @@
 # EQ_NEGRO
-Este es el repositorio del equipo negro en la metaria de Herramientas de Software en la nube
+Este es el repositorio del equipo negro en la materia de Herramientas de Software en la nube
 INTEGRANTES DEL EQUIPO NEGRO:
 CELAYA RUIZ ALEXIS ROMAN
 CRUZ DE LA CRUZ JUAN DE DIOS
