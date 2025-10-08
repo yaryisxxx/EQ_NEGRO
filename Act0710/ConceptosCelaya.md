@@ -1,5 +1,6 @@
 # 📘 Conceptos Básicos de Git y GitHub
 
+## NOMBRE DEL INTEGRANTE: Alexis Roman Celaya Ruíz
 ## 💻 ¿Qué es GitHub?
 **GitHub** es una página web en línea que te permite **almacenar, compartir
 y colaborar** en proyectos de software utilizando Git.
@@ -43,3 +44,9 @@ seguimiento de vlas versiones
 - Acceso a cualquier parte con internet
 - Poder descargar/clonar respositorios
 - Aprender de nuevas metodologías y como gente costruye sus proyectos.
+
+## Ejemplos
+- Al clonar repositorio para trabajar en conjunto con un equipo en la realización de proyectos
+- Al subir codigos para proyectos/portafolio por actividades realizadas en el TECNM
+
+
