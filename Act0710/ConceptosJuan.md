@@ -1,4 +1,4 @@
-JUAN DE DIOS CRUZ DE LA CRUZ 😎
+ JUAN DE DIOS CRUZ DE LA CRUZ 😎
 
 1. ¿QUÉ ES GITHUB?
 Es una plataforma en la nube donde puedes almacenar proyectos. Nos permite controlar quien hace cambios y facilita el trabajar en equipo ya que varias personas pueden trabajar al mismo tiempo y facilita revisar, comentar y juntar cambios
