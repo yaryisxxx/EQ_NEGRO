@@ -32,3 +32,7 @@ Conceptos clave
       Yo creo que usar GitHub en equipo hace más fácil trabajar juntos, ya que todos pueden subir sus avances, revisar el
       trabajo de los demás y tener todo organizado. Además, evita que se pierda información y ayuda a mantener
       actualizado el proyecto.
+
+Ejemplos personales:
+      1: Usamos GitHub para que todos los del equipo pudiéramos subir nuestros archivos y ver los avances de los demás.
+      2: Hice una rama aparte para no afectar el trabajo del grupo mientras probaba unos cambios.
