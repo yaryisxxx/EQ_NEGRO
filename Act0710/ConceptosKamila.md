@@ -1,3 +1,5 @@
+Nombre del integrante: Xochitl Kamila Gómez Ríos
+
 Conceptos clave
 
   1. ¿Qué es GitHub?
