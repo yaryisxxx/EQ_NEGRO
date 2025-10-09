@@ -34,3 +34,9 @@ def dato():
 
 print(f"Dato curioso: {dato()}")
 print(f"Mensaje del día: {mensaje_motivacional()}")
+
+
+def calcular_cuadrado(numero):
+    return numero ** 2
+
+print(f"El cuadrado de {numero} es {calcular_cuadrado(numero)}")
